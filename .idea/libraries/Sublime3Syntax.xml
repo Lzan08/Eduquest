@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Sublime3Syntax">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Assets/Ink/Extras/Sublime3Syntax.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

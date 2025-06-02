@@ -1,0 +1,4 @@
+#Wed May 28 11:10:53 ICT 2025
+base.0=C\:\\Unity\\Projek\\Test\\my math game\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

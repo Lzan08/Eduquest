@@ -1,10 +1,8 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-*.aab filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
-*.aar filter=lfs diff=lfs merge=lfs -text
+*.aab filter=lfs diff=lfs merge=lfs -text
+*.git filter=lfs diff=lfs merge=lfs -text
 *.so filter=lfs diff=lfs merge=lfs -text
-*.dbg.so filter=lfs diff=lfs merge=lfs -text
 *.dbg filter=lfs diff=lfs merge=lfs -text
-*.dvlib filter=lfs diff=lfs merge=lfs -text
+*.aar filter=lfs diff=lfs merge=lfs -text
+*.dbg.so filter=lfs diff=lfs merge=lfs -text
 *.dylib filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,196 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.EduQuest"
+4    android:installLocation="preferExternal"
+5    android:versionCode="10"
+6    android:versionName="1.0.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="22"
+9-->C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="34" />
+10-->C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+13        android:anyDensity="true"
+13-->C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+14        android:largeScreens="true"
+14-->C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+15        android:normalScreens="true"
+15-->C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+16        android:smallScreens="true"
+16-->C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+17        android:xlargeScreens="true" />
+17-->C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+18
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-67
+19-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-64
+20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+20-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-79
+20-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:22-76
+21
+22    <uses-feature android:glEsVersion="0x00030000" />
+22-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-54
+22-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:19-51
+23    <uses-feature
+23-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:5-16:36
+24        android:name="android.hardware.vulkan.version"
+24-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-55
+25        android:required="false" />
+25-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:9-33
+26    <uses-feature
+26-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:5-19:36
+27        android:name="android.hardware.touchscreen"
+27-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:9-52
+28        android:required="false" />
+28-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:9-33
+29    <uses-feature
+29-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:5-22:36
+30        android:name="android.hardware.touchscreen.multitouch"
+30-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:9-63
+31        android:required="false" />
+31-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:9-33
+32    <uses-feature
+32-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:23:5-25:36
+33        android:name="android.hardware.touchscreen.multitouch.distinct"
+33-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:24:9-72
+34        android:required="false" />
+34-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-33
+35
+36    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+36-->[:unityLibrary:mobilenotifications.androidlib] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-77
+36-->[:unityLibrary:mobilenotifications.androidlib] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-74
+37    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+37-->[:unityLibrary:mobilenotifications.androidlib] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-81
+37-->[:unityLibrary:mobilenotifications.androidlib] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-78
+38    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+38-->[:unityLibrary:mobilenotifications.androidlib] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-79
+38-->[:unityLibrary:mobilenotifications.androidlib] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:22-76
+39
+40    <application
+40-->C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+41        android:extractNativeLibs="true"
+41-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:18-50
+42        android:icon="@mipmap/app_icon"
+42-->C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:49-80
+43        android:label="@string/app_name" >
+43-->C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:16-48
+44        <meta-data
+44-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:9-30:33
+45            android:name="unity.splash-mode"
+45-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-45
+46            android:value="0" />
+46-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:13-30
+47        <meta-data
+47-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:31:9-33:36
+48            android:name="unity.splash-enable"
+48-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:32:13-47
+49            android:value="True" />
+49-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:33:13-33
+50        <meta-data
+50-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:34:9-36:37
+51            android:name="unity.launch-fullscreen"
+51-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:13-51
+52            android:value="False" />
+52-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:13-34
+53        <meta-data
+53-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:37:9-39:37
+54            android:name="unity.allow-resizable-window"
+54-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:38:13-56
+55            android:value="False" />
+55-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:39:13-34
+56        <meta-data
+56-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:40:9-42:50
+57            android:name="notch.config"
+57-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:41:13-40
+58            android:value="portrait|landscape" />
+58-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:42:13-47
+59        <meta-data
+59-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:43:9-45:36
+60            android:name="unity.auto-report-fully-drawn"
+60-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:44:13-57
+61            android:value="true" />
+61-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:45:13-33
+62
+63        <activity
+63-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:47:9-68:20
+64            android:name="com.unity3d.player.UnityPlayerActivity"
+64-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:48:13-66
+65            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+65-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:49:13-194
+66            android:exported="true"
+66-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:50:13-36
+67            android:hardwareAccelerated="false"
+67-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:51:13-48
+68            android:launchMode="singleTask"
+68-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:52:13-44
+69            android:resizeableActivity="false"
+69-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:53:13-47
+70            android:screenOrientation="userLandscape"
+70-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:54:13-54
+71            android:theme="@style/UnityThemeSelector" >
+71-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:55:13-54
+72            <intent-filter>
+72-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:56:13-60:29
+73                <category android:name="android.intent.category.LAUNCHER" />
+73-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:57:17-77
+73-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:57:27-74
+74
+75                <action android:name="android.intent.action.MAIN" />
+75-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:59:17-69
+75-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:59:25-66
+76            </intent-filter>
+77
+78            <meta-data
+78-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:62:13-64:40
+79                android:name="unityplayer.UnityActivity"
+79-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:63:17-57
+80                android:value="true" />
+80-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:64:17-37
+81            <meta-data
+81-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:65:13-67:40
+82                android:name="notch_support"
+82-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:66:17-45
+83                android:value="true" />
+83-->[:unityLibrary] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:67:17-37
+84        </activity>
+85
+86        <receiver
+86-->[:unityLibrary:mobilenotifications.androidlib] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:9-16:40
+87            android:name="com.unity.androidnotifications.UnityNotificationManager"
+87-->[:unityLibrary:mobilenotifications.androidlib] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-83
+88            android:exported="false" />
+88-->[:unityLibrary:mobilenotifications.androidlib] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-37
+89        <receiver
+89-->[:unityLibrary:mobilenotifications.androidlib] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:9-24:20
+90            android:name="com.unity.androidnotifications.UnityNotificationRestartReceiver"
+90-->[:unityLibrary:mobilenotifications.androidlib] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-91
+91            android:enabled="false"
+91-->[:unityLibrary:mobilenotifications.androidlib] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-36
+92            android:exported="false" >
+92-->[:unityLibrary:mobilenotifications.androidlib] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-37
+93            <intent-filter>
+93-->[:unityLibrary:mobilenotifications.androidlib] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:13-23:29
+94                <action android:name="android.intent.action.BOOT_COMPLETED" />
+94-->[:unityLibrary:mobilenotifications.androidlib] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:17-79
+94-->[:unityLibrary:mobilenotifications.androidlib] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:25-76
+95            </intent-filter>
+96        </receiver>
+97
+98        <meta-data
+98-->[:unityLibrary:mobilenotifications.androidlib] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:9-28:36
+99            android:name="reschedule_notifications_on_restart"
+99-->[:unityLibrary:mobilenotifications.androidlib] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:13-63
+100            android:value="true" />
+100-->[:unityLibrary:mobilenotifications.androidlib] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:13-33
+101        <meta-data
+101-->[:unityLibrary:mobilenotifications.androidlib] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:9-31:33
+102            android:name="com.unity.androidnotifications.exact_scheduling"
+102-->[:unityLibrary:mobilenotifications.androidlib] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:13-75
+103            android:value="0" />
+103-->[:unityLibrary:mobilenotifications.androidlib] C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:31:13-30
+104    </application>
+105
+106</manifest>

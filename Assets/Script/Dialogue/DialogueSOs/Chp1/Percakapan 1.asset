@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1aa47faaaa4545e46bd090818b4a8f1e, type: 3}
+  m_Name: Percakapan 1
+  m_EditorClassIdentifier: 
+  actors: 030000000000000000000000030000000000000003000000080000000000000009000000
+  randomActorName: 
+  randomActorPortrait: {fileID: 21300000, guid: 9affea180c0e383408a3a22d660d9e62, type: 3}
+  dialogue:
+  - Oh kamu sudah balik dari pasar nak.. sini kemari bantu ibu
+  - Aduh duh.. Terimakasih, telah dibantu. Kalian sangat baik sekali
+  - Aku perlu Istirahat sebentar
+  - Saya ambilkan minum dahulu ya pak
+  - Tidak usah repot-repot bu
+  - Ini pak minumnya
+  - '"Daftar belanjaan si ahmad pun terjatuh dan bapak tersebut pun mengambilnya"'
+  - 'kertasmu terjatuh dik.. '
+  - Boleh bapak tau isi dari kertas itu apa?
+  optionText:
+  - Itu kertas belanjaanya ibu
+  - Itu daftar belanjaannya si ibu. tadi dia meminta saya untuk membeli barang
+  option0: {fileID: 11400000, guid: 2b727a5c4edda8e41a467ff5c58ade2f, type: 2}
+  option1: {fileID: 11400000, guid: 2b727a5c4edda8e41a467ff5c58ade2f, type: 2}
+  option2: {fileID: 0}
+  option3: {fileID: 0}

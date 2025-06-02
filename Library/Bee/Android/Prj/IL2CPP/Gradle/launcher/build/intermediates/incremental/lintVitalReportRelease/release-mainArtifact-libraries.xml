@@ -1,0 +1,36 @@
+<libraries>
+  <library
+      name="C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+      jars="C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\2433405a6393e5d0e50f6f3205eb9332\transformed\out\jars\classes.jar;C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\2433405a6393e5d0e50f6f3205eb9332\transformed\out\jars\libs\classes-2.jar;C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\2433405a6393e5d0e50f6f3205eb9332\transformed\out\jars\libs\unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\2433405a6393e5d0e50f6f3205eb9332\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\classes.jar:unspecified@jar"
+      jars="C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\classes.jar"
+      resolved="__local_aars__:C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\classes.jar:unspecified"/>
+  <library
+      name="__local_aars__:C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+  <library
+      name="C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary:mobilenotifications.androidlib::release"
+      jars="C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\mobilenotifications.androidlib\build\.transforms\c76cf719996740493806d662b6754b02\transformed\out\jars\classes.jar"
+      resolved="Gradle.unityLibrary:mobilenotifications.androidlib:unspecified"
+      folder="C:\Unity\Projek\Test\my math game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\mobilenotifications.androidlib\build\.transforms\c76cf719996740493806d662b6754b02\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+</libraries>

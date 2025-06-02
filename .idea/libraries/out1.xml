@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="out1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/project_dex_archive/release/out/d48011f513bcfadcc303c32b3efeecc2027dcdeffa2640755c8d6aa97d036ed2_2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/project_dex_archive/release/out/d48011f513bcfadcc303c32b3efeecc2027dcdeffa2640755c8d6aa97d036ed2_1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/project_dex_archive/release/out/d48011f513bcfadcc303c32b3efeecc2027dcdeffa2640755c8d6aa97d036ed2_0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1aa47faaaa4545e46bd090818b4a8f1e, type: 3}
+  m_Name: Kelas1
+  m_EditorClassIdentifier: 
+  actors: 070000000700000009000000
+  randomActorName: Anak-Anak
+  randomActorPortrait: {fileID: 21300000, guid: 0c7e0d0e20df42b45958fc34501580bb, type: 3}
+  dialogue:
+  - Halo... Selamat Pagi Anak-anak
+  - Semuanya duduk yang rapi.. Kita kedatangan murid baru namanya Ahmad.
+  - Nah ahmad kamu duduk di bangku belakang ya
+  optionText:
+  - 'Baik Pak '
+  option0: {fileID: 11400000, guid: 6553f9f6427ad8c448d231a45ecc0a85, type: 2}
+  option1: {fileID: 0}
+  option2: {fileID: 0}
+  option3: {fileID: 0}

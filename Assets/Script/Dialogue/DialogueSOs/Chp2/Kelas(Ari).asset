@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1aa47faaaa4545e46bd090818b4a8f1e, type: 3}
+  m_Name: Kelas(Ari)
+  m_EditorClassIdentifier: 
+  actors: 020000000200000002000000020000000200000009000000
+  randomActorName: 
+  randomActorPortrait: {fileID: 0}
+  dialogue:
+  - Ohh... jadi namamu Ahmad ya. Kenalkan aku Ari ketua kelas
+  - jadi mana buku kamu.. aku mau kasih ke pak guru
+  - Satu lagi jangan lupa setelah selesai ini kamu dipanggil Aldi di depan kantor
+    guru
+  - Kamu harus temui dia dan jangan macam-macam sama dia.. jika tidak maka akan piket
+    sendirian selama 2 minggu
+  - dan juga aku tidak akan berikan buku ini ke pak Sobri
+  - dan juga aku tidak akan berikan buku ini ke pak Sobri
+  optionText:
+  - Ya udah aku ketempat si aldi
+  - Iya aku kesana, kamu jangan lupa kasih bukuku, kamu jangan sampai lupa
+  option0: {fileID: 11400000, guid: fb09d636b2f6d8c46bdb7fb208fe297a, type: 2}
+  option1: {fileID: 11400000, guid: fb09d636b2f6d8c46bdb7fb208fe297a, type: 2}
+  option2: {fileID: 0}
+  option3: {fileID: 0}

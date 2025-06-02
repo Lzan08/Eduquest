@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Library/PackageCache/com.unity.mobile.notifications@2.3.0/Runtime/Runtime.iml" filepath="$PROJECT_DIR$/Library/PackageCache/com.unity.mobile.notifications@2.3.0/Runtime/Runtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library/PackageCache/com.unity.mobile.notifications@2.3.0/Tests/Tests.iml" filepath="$PROJECT_DIR$/Library/PackageCache/com.unity.mobile.notifications@2.3.0/Tests/Tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/mobilenotifications.androidlib/build/build.iml" filepath="$PROJECT_DIR$/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/mobilenotifications.androidlib/build/build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/mobilenotifications.androidlib/build/build1.iml" filepath="$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/mobilenotifications.androidlib/build/build1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/build2.iml" filepath="$PROJECT_DIR$/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/build2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/build3.iml" filepath="$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/build3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library/PackageCache/com.unity.adaptiveperformance.samsung.android@5.0.0/com.unity.adaptiveperformance.samsung.android@5.0.0.iml" filepath="$PROJECT_DIR$/Library/PackageCache/com.unity.adaptiveperformance.samsung.android@5.0.0/com.unity.adaptiveperformance.samsung.android@5.0.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/launcher.iml" filepath="$PROJECT_DIR$/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/launcher1.iml" filepath="$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/launcher1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/mobilenotifications.androidlib/src/mobilenotifications.androidlib.iml" filepath="$PROJECT_DIR$/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/mobilenotifications.androidlib/src/mobilenotifications.androidlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/mobilenotifications.androidlib/src/mobilenotifications.androidlib1.iml" filepath="$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/mobilenotifications.androidlib/src/mobilenotifications.androidlib1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/my math game.iml" filepath="$PROJECT_DIR$/.idea/my math game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/unityLibrary.iml" filepath="$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/unityLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/unityLibrary1.iml" filepath="$PROJECT_DIR$/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/unityLibrary1.iml" />
+    </modules>
+  </component>
+</project>
